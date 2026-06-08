@@ -23,6 +23,6 @@ Join me on my journey as I 🛠️ build practical solutions using [Python, Post
 ---
 
 ## 📫 Reach me on 
-* **LinkedIn:** [your-profile-link](https://www.linkedin.com/in/johnsonyeboah/)
+* **LinkedIn:** [Johnson Yeboah](https://www.linkedin.com/in/johnsonyeboah/)
 * **Twitter/X:** @Johnson__Yeboah
 * **Email:** johnsonyeboahk@gmail.com
