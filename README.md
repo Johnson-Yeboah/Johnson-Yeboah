@@ -9,7 +9,7 @@ My ultimate goal is to devise data-driven strategies and policy solutions that b
 ---
 
 ## Certifications 🎓
-* **Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle** — [Verify Credential]([your-link-here](https://www.udemy.com/certificate/UC-74669672-8f5f-43a1-af7e-d9a0d1c91dd8/))
+* **Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle** — [Verify Credential](https://www.udemy.com/certificate/UC-74669672-8f5f-43a1-af7e-d9a0d1c91dd8/)
 
 ---
 
