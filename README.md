@@ -9,8 +9,8 @@ My ultimate goal is to devise data-driven strategies and policy solutions that b
 ---
 
 ## Certifications 🎓
-[<kbd> **Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle** </kbd>](https://www.udemy.com/certificate/UC-74669672-8f5f-43a1-af7e-d9a0d1c91dd8/)
-[<kbd> **Relational Database V8** </kbd>](https://www.freecodecamp.org/certification/johnsony/relational-database-v8)
+[![Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle](https://img.shields.io/badge/Udemy-Excel%20SQL%20Tableau-red?style=flat-square&logo=IconName)](https://www.udemy.com/certificate/UC-74669672-8f5f-43a1-af7e-d9a0d1c91dd8/)
+[![Relational Database V8](https://img.shields.io/badge/freeCodeCamp-Relational%20Database-orange?style=flat-square&logo=IconName)](https://www.freecodecamp.org/certification/johnsony/relational-database-v8)
 
 ---
 
