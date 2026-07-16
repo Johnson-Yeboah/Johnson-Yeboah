@@ -17,7 +17,7 @@ My ultimate goal is to devise data-driven strategies and policy solutions that b
 Join me on my journey as I 🛠️ build practical solutions using [Python, PostgreSQL, and Bash] ☁️.
 
 ## 🔧 Skills
-* **Languages & Tools:** Python, SQL (PostgreSQL), Bash scripting, Git/GitHub
+* **Languages & Tools:** Python, SQL (PostgreSQL, Snowflake), Bash scripting, Git/GitHub, Jira Desk Management
 * **Data & Visualization:** Excel (Power Query, Advanced Dashboards), Data Science (NumPy, Pandas)
 * **Core Concepts:** Relational Database Design, Policy Analysis, Computational Social Science
 
